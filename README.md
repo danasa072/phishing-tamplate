@@ -3,12 +3,12 @@
 </p>
 
 ## Features:
-1. Telegram ![Bot](https://t.me/BotFather) Log.
+1. Telegram [Bot](https://t.me/BotFather) Log.
 2. JSON database
-3. ![MongoDB](https://cloud.mongodb.com/)
+3. [MongoDB](https://cloud.mongodb.com/)
 4. Dashboard `/dashboard`
 
-## Setup Video ![Here](https://www.facebook.com/groups/517828177563563)
+## Setup Video [Here](https://www.facebook.com/groups/517828177563563)
 
 ---
 ## 🌐 Socials:
